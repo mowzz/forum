@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+}
+
+.home_head_bar {
+    background: -webkit-linear-gradient(top, #373737, #212121);
+    color: #ffffff;
+    text-align: center;
+    padding: 2rem 4rem;
+}
+
+.home_head_bar h1 {
+    margin: 0;
+}
