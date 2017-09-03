@@ -4,7 +4,7 @@ html, body {
 
 .home_head_bar {
     background-color: #474747; /*fallback for browser does not support gradient*/
-    background: -webkit-linear-gradient(top, #373737, #212121);
+    background: -webkit-linear-gradient(top, #373737, #212121);／＊Each of the most popular browser rendering engines has its own vendor-specific prefix for experimental properties.*/
     background: -moz-linear-gradient(top, #373737, #212121);
     background: -o-linear-gradient(top, #373737, #212121);
     background: linear-gradient(top, #373737, #212121);
