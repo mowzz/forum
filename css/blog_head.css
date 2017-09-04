@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+}
+
+.blog_head_box {
+    background-color: #373737;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+}
+
+.blog_head_box h1, .blog_head_box h2 {
+    margin: 0;
+}
